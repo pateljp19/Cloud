@@ -1,0 +1,16 @@
+
+lift and shift method of server - 
+
+data, schema, create tomcat server
+
+cloud devops processes - automated testing, slowly evently move to git.
+
+
+create aws account
+create linux
+create tomcat
+create DB.
+create connect between linux and laptop.
+create a program and ear file
+deploy on tomcat.
+test and later
